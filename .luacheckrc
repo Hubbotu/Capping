@@ -55,8 +55,10 @@ globals = {
 	"IsQuestCompletable",
 	"IsShiftKeyDown",
 	"PlaySound",
-	"RaidNotice_AddMessage",
-	"RaidWarningFrame_OnEvent",
+	"RaidNotice_AddMessage", -- XXX remoe
+	"RaidBossEmoteFrame", -- XXX remove
+	"RaidWarningFrame",
+	"RaidWarningUtil",
 	"ReloadUI",
 	"RequestBattlefieldScoreData",
 	"StopSound",
@@ -69,7 +71,6 @@ globals = {
 	"UnitPosition",
 
 	-- WoW (global tables)
-	"RaidBossEmoteFrame",
 	"SlashCmdList",
 	"TimerTracker",
 	"UIParent",
