@@ -25,7 +25,7 @@ L.galvangar = "Гальвангар"
 L.balinda = "Балинда"
 L.ivus = "Ивус"
 L.lokholar = "Локолар"
-L.handIn = "|cFF33FF99Захват|r: автоматическая сдача квестовых предметов."
+L.handIn = "|cFF33FF99Capping|r: автоматическая сдача квестовых предметов."
 L.anchorTooltip = "|cffeda55fПКМ|r: открыть настройки"
 L.anchorTooltipNote = "Откройте настройки и зафиксируйте панели, чтобы скрыть этот якорь перемещения."
 
@@ -39,8 +39,8 @@ L.halfway = "наполовину" -- Needs to match the in game text exactly
 L.broken = "разрушены" -- Needs to match the in game text exactly
 
 -- Wintergrasp
-L.damaged = "|cFF33FF99Захват|r: объект %s поврежден"
-L.destroyed = "|cFF33FF99Захват|r: объект %s разрушен"
+L.damaged = "|cFF33FF99Capping|r: объект %s поврежден"
+L.destroyed = "|cFF33FF99Capping|r: объект %s разрушен"
 L.northEastKeep = "Северо-восточная башня крепости"
 L.southEastKeep = "Юго-восточная башня крепости"
 L.northWestKeep = "Северо-западная башня крепости"
